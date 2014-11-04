@@ -57,3 +57,9 @@ sample ouputs
 ````js
 "7f4eee3c70cb5ed71e0cb08911edb2b3"
 ````
+
+test
+===
+````js
+mocha
+````

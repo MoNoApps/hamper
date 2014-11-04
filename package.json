@@ -1,0 +1,23 @@
+{
+  "name": "hamper",
+  "version": "0.0.1",
+  "description": "MoNoApps Crypto Pill",
+  "main": "hamper.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MoNoApps/hamper.git"
+  },
+  "keywords": [
+    "mna",
+    "hamper"
+  ],
+  "author": "Daniel Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoNoApps/hamper/issues"
+  },
+  "homepage": "https://github.com/MoNoApps/hamper"
+}
